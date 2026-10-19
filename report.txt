@@ -1,0 +1,55 @@
+
+===== SYSTEM =====
+Hostname: Mourishs-MacBook-Air.local
+Time: Mon Oct 19 16:55:32 IST 2026
+Uptime: 16:55  up 6 days,  2:02, 2 users, load averages: 2.98 2.73 2.61
+
+===== CPU AND LOAD =====
+WARNING: nproc unavailable; assuming 1 CPU for load comparison
+WARNING: Linux load information unavailable
+
+===== MEMORY =====
+WARNING: free command unavailable
+
+===== DISK SPACE =====
+Filesystem                      512-blocks      Used Available Capacity  Mounted on
+/dev/disk3s1s1                   478724992  26679464 184368024    13%    /
+devfs                                  398       398         0   100%    /dev
+/dev/disk3s6                     478724992   2097192 184368024     2%    /System/Volumes/VM
+/dev/disk3s2                     478724992  21356808 184368024    11%    /System/Volumes/Preboot
+/dev/disk3s4                     478724992     56200 184368024     1%    /System/Volumes/Update
+/dev/disk1s2                       1024000     12328    988064     2%    /System/Volumes/xarts
+/dev/disk1s1                       1024000     12256    988064     2%    /System/Volumes/iSCPreboot
+/dev/disk1s3                       1024000      1632    988064     1%    /System/Volumes/Hardware
+/dev/disk3s5                     478724992 240885656 184368024    57%    /System/Volumes/Data
+map auto_home                            0         0         0   100%    /System/Volumes/Data/home
+/Applications/Email.app/Wrapper  478724992 238808464 188439792    56%    /private/var/folders/5w/w42txzy50y352g7hm79tzxhm0000gn/X/2552B21A-36B0-52DE-96EE-E4D6A1300766
+
+===== INODES =====
+Filesystem                      512-blocks      Used Available Capacity  Mounted on
+/dev/disk3s1s1                   478724992  26679464 184368024    13%    /
+devfs                                  398       398         0   100%    /dev
+/dev/disk3s6                     478724992   2097192 184368024     2%    /System/Volumes/VM
+/dev/disk3s2                     478724992  21356808 184368024    11%    /System/Volumes/Preboot
+/dev/disk3s4                     478724992     56200 184368024     1%    /System/Volumes/Update
+/dev/disk1s2                       1024000     12328    988064     2%    /System/Volumes/xarts
+/dev/disk1s1                       1024000     12256    988064     2%    /System/Volumes/iSCPreboot
+/dev/disk1s3                       1024000      1632    988064     1%    /System/Volumes/Hardware
+/dev/disk3s5                     478724992 240885656 184368024    57%    /System/Volumes/Data
+map auto_home                            0         0         0   100%    /System/Volumes/Data/home
+/Applications/Email.app/Wrapper  478724992 238808464 188439792    56%    /private/var/folders/5w/w42txzy50y352g7hm79tzxhm0000gn/X/2552B21A-36B0-52DE-96EE-E4D6A1300766
+
+===== TOP PROCESSES =====
+
+===== FAILED SERVICES =====
+INFO: systemctl unavailable; systemd check skipped
+
+===== RECENT SYSTEM ERRORS =====
+INFO: journalctl unavailable; journal check skipped
+
+===== NETWORK =====
+INFO: ip command unavailable; network check skipped
+
+===== SUMMARY =====
+Health checks completed.
+Review warnings and critical findings; this script does not repair issues.
