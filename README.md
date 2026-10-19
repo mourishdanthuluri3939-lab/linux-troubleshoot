@@ -1,3 +1,4 @@
+
 # Linux Health Checker
 
 A Bash-based Linux troubleshooting toolkit.
@@ -27,3 +28,6 @@ Some checks may be skipped when utilities or permissions are unavailable.
 ```bash
 chmod +x linux-troubleshoot.sh
 ./linux-troubleshoot.sh
+```
+
+
